@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/properties/route": "app/api/properties/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/properties/[id]/route": "app/api/properties/[id]/route.js",
+  "/create/page": "app/create/page.js",
+  "/page": "app/page.js",
+  "/properties/[id]/page": "app/properties/[id]/page.js"
+}
